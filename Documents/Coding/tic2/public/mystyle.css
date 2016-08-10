@@ -1,0 +1,22 @@
+body {
+  /*background-color: red*/
+  background-image: url("http://i.imgur.com/nSL6sQS.png")
+}
+
+.table {
+  position: fixed;
+  top: 300px;
+  left: 500px;
+}
+
+.button {
+position: fixed;
+top: 400px;
+left: 530px;
+}
+
+.refresh {
+position: fixed;
+top: 375px;
+left: 535px;
+}
